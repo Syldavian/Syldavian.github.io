@@ -6,7 +6,7 @@
   role: Course project for Computer Architecture (2022 Spring), Tsinghua University
   duration: Jun, 2022
   url: https://github.com/Syldavian/TAGGED-Predictor
-  description: Implemented based on the paper "A case for (partially) tagged Geometric History Length Branch Prediction". André Seznec, Pierre Michaud. <i>Journal of Instruction Level Parallelism (JILP)</i>, 2006.
+  description: Implemented based on the paper <a href="https://www.irisa.fr/caps/people/seznec/JILP-COTTAGE.pdf" itemprop="url">"A case for (partially) tagged Geometric History Length Branch Prediction"</a>. André Seznec, Pierre Michaud. <i>Journal of Instruction Level Parallelism (JILP)</i>, 2006.
 
 # Springfield Community Outreach Group
 - project: Implementation of a 5-stage Pipelined CPU
