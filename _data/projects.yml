@@ -2,15 +2,21 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+- project: Implementation of the TAGGED Branch Predictor
+  role: Course project for Computer Architecture (2022 Spring), Tsinghua University
+  duration: Jun, 2022
+  url: https://github.com/Syldavian/TAGGED-Predictor
+  description: Implemented based on the paper "A case for (partially) tagged Geometric History Length Branch Prediction". André Seznec, Pierre Michaud. <i>Journal of Instruction Level Parallelism (JILP)</i>, 2006.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+- project: Implementation of a 5-stage Pipelined CPU
+  role: A 3-person group project for Computer Organization (2021 Fall), Tsinghua University
+  duration: Nov, 2021
+  url: https://github.com/wzf2000/cod21-grp58
+  description: Implemented the paged memory management unit (MMU) and translation lookaside buffer (TLB) for the group project.
+
+- project: Image Renderer based on the Path Tracing Algorithm
+  role: Course project for Fundamentals of Computer Graphics (2021 Spring), Tsinghua University
+  duration: Jun, 2021
+  url: https://github.com/Syldavian/simple-path-tracing
+  description: <ul class="resume-item-list"><li>Implemented based on Kevin Beason's <a href="http://www.kevinbeason.com/smallpt/" itemprop="url">Smallpt</a> project.</li><li>Additional features like anti-aliasing, soft shadows, texture mapping, depth of focus and parametric surface intersection have been integrated to the algorithm.</li><li>Bounding boxes are used to speed up the algorithm.</li></ul>

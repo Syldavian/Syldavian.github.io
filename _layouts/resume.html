@@ -119,7 +119,7 @@
 
 
       {% if site.resume_section_recognition %}
-      <!-- begin Recognition -->
+      <!-- begin Publication -->
       <section class="content-section">
 
         <header class="section-header">
@@ -128,12 +128,14 @@
 
         {% for recognition in site.data.recognitions %}
         <div class="resume-item">
-          <p class="resume-item-copy">{{ recognition.summary }}</p>
+          <h5 class="resume-item-title" itemprop="award">{{ recognition.title }}</h5>
+          <p class="resume-item-details">{{ recognition.authors }}</p>
+          <p class="resume-item-copy"><i>{{ recognition.from }}</i>, {{ recognition.year }}&emsp;&emsp;&emsp;<a href="{{ recognition.url }}" itemprop="url">[Paper]</a></p>
         </div>
         {% endfor %}
 
       </section>
-      <!-- end Recognition -->
+      <!-- end Publication -->
       {% endif %}
 
 
