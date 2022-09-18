@@ -130,7 +130,7 @@
         <div class="resume-item">
           <p class="resume-item-details"><b>{{ recognition.title }}</b></p>
           <p class="resume-item-details">{{ recognition.authors }}</p>
-          <p class="resume-item-copy"><i>{{ recognition.from }}</i>, {{ recognition.year }}{% if recognition.url %}&emsp;&emsp;&emsp;<a href="{{ recognition.url }}" itemprop="url">[Paper]</a>{% endif %}</p>
+          <p class="resume-item-copy"><i>{{ recognition.from }}</i>, {{ recognition.year }}{% if recognition.url %}<a href="{{ recognition.url }}" itemprop="url" style="text-align:right;">[Paper]</a>{% endif %}</p>
         </div>
         {% endfor %}
 
