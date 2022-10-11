@@ -4,8 +4,8 @@
   description: Python, C/C++, R, Java, JavaScript/TypeScript, C#, Verilog, Rust
 
 # Communications strategy
-- skill: Libraries
-  description: PyTorch, React, Django
+- skill: Libraries, Frameworks and Tools
+  description: PyTorch, React, Django, Android Studio, Git
 
 # Digital content development and creation
 - skill: English Proficiency
