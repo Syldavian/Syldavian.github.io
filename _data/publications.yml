@@ -1,0 +1,19 @@
+main:
+
+  - title: LSTM-Driven Scheduling for Energy-Efficient Crop Monitoring in Wireless Networks
+    authors: <strong>Ziyue Dang</strong>, Fan Dang, Yankun Yuan
+    conference_short: AgriSECON
+    conference: 2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking <strong>(SECON)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10287454
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iazcMPzgIn0J:scholar.google.com/&output=citation&scisdr=ClEz2rnkEMvu1e7aVtc:AFWwaeYAAAAAZUncTtd8bDKvtkCDwHlqUQ4DuMg&scisig=AFWwaeYAAAAAZUncToQjGkf7bpvn1UZnz9qpJRo&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/agrisecon2023.png
+    notes: Presented at AgriSECON workshop
+
+  - title: "Digital Twin-Based Skill Training With a Hands-On User Interaction Device to Assist in Manual and Robotic Ultrasound Scanning"
+    authors: <strong>Ziyue Dang</strong>, Qi Yang, Zhaokun Deng, Jiancheng Han, Yihua He, Shuangyi Wang
+    conference_short: IEEE DTPI
+    conference: IEEE Journal of Radio Frequency Identification, 2022.
+    pdf: https://ieeexplore.ieee.org/abstract/document/9881585
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:mWwNYiNPU5sJ:scholar.google.com/&output=citation&scisdr=ClEz2rnkEMvu1e7dzYQ:AFWwaeYAAAAAZUnb1YQSsbdBatr_gwzHHtSki6I&scisig=AFWwaeYAAAAAZUnb1Z4mGEOX9E6Gz3FtSoh-rkk&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Oral Presentation at IEEE DTPI 2022
+    image: ./assets/img/dtpi2022.png
