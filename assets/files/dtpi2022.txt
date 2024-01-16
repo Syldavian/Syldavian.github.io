@@ -1,0 +1,9 @@
+@article{dang2022digital,
+  title={Digital Twin-Based Skill Training With a Hands-On User Interaction Device to Assist in Manual and Robotic Ultrasound Scanning},
+  author={Dang, Ziyue and Yang, Qi and Deng, Zhaokun and Han, Jiancheng and He, Yihua and Wang, Shuangyi},
+  journal={IEEE Journal of Radio Frequency Identification},
+  volume={6},
+  pages={787--793},
+  year={2022},
+  publisher={IEEE}
+}

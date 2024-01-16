@@ -1,0 +1,8 @@
+@inproceedings{dang2023lstm,
+  title={LSTM-Driven Scheduling for Energy-Efficient Crop Monitoring in Wireless Networks},
+  author={Dang, Ziyue and Dang, Fan and Yuan, Yankun},
+  booktitle={2023 20th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+  pages={41--47},
+  year={2023},
+  organization={IEEE}
+}
